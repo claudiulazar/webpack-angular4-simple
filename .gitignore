@@ -1,0 +1,10 @@
+# Editor files
+.idea/
+*.iml
+.vscode/
+
+# Lib files
+node_modules/
+
+#misc
+node_modules/
